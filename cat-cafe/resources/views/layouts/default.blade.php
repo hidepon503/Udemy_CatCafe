@@ -16,7 +16,7 @@
 <header>
     <div class="container px-4 mx-auto">
         <nav class="flex items-center justify-between py-6">
-            <a class="text-3xl font-semibold leading-none" href="/">WithPetsaaaaa</a>
+            <a class="text-3xl font-semibold leading-none" href="/">WithPets</a>
             <ul class="hidden lg:flex ml-12 mr-auto space-x-12">
                 <li><a class="text-sm text-blueGray-400 hover:text-blueGray-500" href="#">設備</a></li>
                 <li><a class="text-sm text-blueGray-400 hover:text-blueGray-500" href="#">ねこちゃんたち</a></li>
