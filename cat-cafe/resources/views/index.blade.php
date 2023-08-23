@@ -3,11 +3,11 @@
 
 @section('content')
 <section class="bg-gray-100">
-  <div class="container mx-auto py-40 relative">
-    <h1 class="mt-2 text-4xl font-bold font-heading text-center">ねこに癒やしてもらいませんか？</h1>
-    <p class="text-center pt-5">ねこの可愛い仕草、自由気ままな雰囲気を見ることはもちろん、<br>
-      ただ同じ空間にいるだけでも癒やされます<br>
-      当店自慢のフワッフワのねこに触れ合うことで「幸せホルモン」が補給しませんか？</p>
+  <div class="container mx-auto py-40 relative" style="background-image:url('/images/withpets/hero.jpg'); background-size:cover;">
+    <h1 class="mt-2 text-4xl font-bold font-heading text-center">もう一度「ペット」と暮らしませんか？<br>あなたを待つペットがいます</h1>
+    <p class="text-center pt-5">ペットと暮らしたくても、自身に万が一の時があった時に頼れる人がおらず、諦めていませんか？<br>
+      With Petsの永年預かりがそんなあなたと寄り添い、ペットと暮らせる未来を作ります。<br>
+      ペットと暮らすことであなたとペットの人生を豊かにしましょう！</p>
     <div class="absolute right-0 bottom-0 transform translate-y-16">
       <a href="#"><img src="/images/index/video.jpg" alt="" class="shadow-lg"></a>
     </div>
@@ -17,7 +17,7 @@
 <section class="mt-16">
   <div class="container mx-auto">
     <p class="text-center text-2xl">特徴</p>
-    <h2 class="mt-2 font-bold font-heading text-center text-3xl">安心して楽しんで頂くための3つの徹底ポイント</h2>
+    <h2 class="mt-2 font-bold font-heading text-center text-3xl">安心してペットと暮らし続けるための3つの徹底サポート</h2>
   </div>
 
   <div class="flex flex-wrap -m-3 container mx-auto pt-8">
@@ -26,7 +26,7 @@
         <div class="flex py-10 px-6">
           <img class="w-20 h-20 object-cover rounded-full" src="/images/index/foliage-plant.jpg" alt="">
           <div class="ml-4 w-56">
-            <h3 class="mb-1 text-2xl font-heading text-left text-blue-500">清潔な環境</h3>
+            <h3 class="mb-1 text-2xl font-heading text-left text-blue-500">永年預かり</h3>
             <p class="text-left text-gray-500 text-sm">2022年2月にリニューアル!! <br>24時間常に換気<br> 最新型空気清浄機を設置</p>
           </div>
         </div>
@@ -38,7 +38,7 @@
         <div class="flex py-10 px-6">
           <img class="w-20 h-20 object-cover rounded-full" src="/images/index/sanitizer.jpg" alt="">
           <div class="ml-4 w-56">
-            <h3 class="mb-1 text-2xl font-heading text-left text-blue-500">衛生管理</h3>
+            <h3 class="mb-1 text-2xl font-heading text-left text-blue-500">飼い主の見守り</h3>
             <p class="text-left text-gray-500 text-sm">店員・ゲストの検温<br> マスクの常時着用<br> 1時間毎に全ての設備を消毒</p>
           </div>
         </div>
@@ -50,7 +50,7 @@
         <div class="flex py-10 px-6">
           <img class="w-20 h-20 object-cover rounded-full" src="/images/index/health-check.jpg" alt="">
           <div class="ml-4 w-56">
-            <h3 class="mb-1 text-2xl font-heading text-left text-blue-500">ねこの体調管理</h3>
+            <h3 class="mb-1 text-2xl font-heading text-left text-blue-500">ペットパスポート</h3>
             <p class="text-left text-gray-500 text-sm">毎日の検温<br> ワクチン接種済み<br> 定期的な検診</p>
           </div>
         </div>

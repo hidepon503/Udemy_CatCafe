@@ -16,17 +16,17 @@
 <header>
     <div class="container px-4 mx-auto">
         <nav class="flex items-center justify-between py-6">
-            <a class="text-3xl font-semibold leading-none" href="/">WithPets</a>
+            <a class="text-3xl font-semibold leading-none" href="/"><img src="/images/withpets/WithPetsLogo.png" alt="With Pets" class="h-20"></a>
             <ul class="hidden lg:flex ml-12 mr-auto space-x-12">
-                <li><a class="text-sm text-blueGray-400 hover:text-blueGray-500" href="#">設備</a></li>
-                <li><a class="text-sm text-blueGray-400 hover:text-blueGray-500" href="#">ねこちゃんたち</a></li>
-                <li><a class="text-sm text-blueGray-400 hover:text-blueGray-500" href="/blogs">ブログ</a></li>
-                <li><a class="text-sm text-blueGray-400 hover:text-blueGray-500" href="#">メニュー</a></li>
-                <li><a class="text-sm text-blueGray-400 hover:text-blueGray-500" href="#">よくあるご質問</a></li>
+                <li><a class="text-sm text-blueGray-400 hover:text-blueGray-500" href="#">With Petsとは</a></li>
+                <li><a class="text-sm text-blueGray-400 hover:text-blueGray-500" href="#">保護猫一覧</a></li>
+                <li><a class="text-sm text-blueGray-400 hover:text-blueGray-500" href="/blogs">サービス</a></li>
+                <li><a class="text-sm text-blueGray-400 hover:text-blueGray-500" href="#">料金</a></li>
+                <li><a class="text-sm text-blueGray-400 hover:text-blueGray-500" href="#">お問い合わせ</a></li>
             </ul>
             <div>
-                <a class="mr-2 inline-block px-4 py-3 text-xs text-blue-500 hover:text-blue-600 leading-none border border-blue-200 hover:border-blue-300 rounded" href="/contact">お問い合わせ</a>
-                <a class="inline-block px-4 py-3 text-xs font-semibold leading-none bg-blue-500 hover:bg-blue-600 text-white rounded" href="/#access">アクセス</a>
+                <a class="mr-2 inline-block px-4 py-3 text-xs text-blue-500 hover:text-blue-600 leading-none border border-blue-200 hover:border-blue-300 rounded" href="/contact">ログイン</a>
+                <a class="inline-block px-4 py-3 text-xs font-semibold leading-none bg-blue-500 hover:bg-blue-600 text-white rounded" href="/#access">新規登録</a>
             </div>
         </nav>
     </div>
